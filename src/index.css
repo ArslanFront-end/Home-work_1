@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-image: url("../images/4n254E5RVKprQbJNV86Kr5WuZaI.jpeg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    align-items: center;
+}
+.text{
+    width: 250px;
+    height: 70px;
+    background-color: orange;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 3px black solid;
+}
+.btn{
+    width: 150px;
+    height: 50px;
+    margin-top: 20px;
+    margin-left: 50px;
+    font-size: 18px;
+    border: 3px black solid;
+    background-color: orange;
+}
